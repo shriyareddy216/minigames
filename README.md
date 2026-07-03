@@ -1,6 +1,8 @@
 # 🎮 Mini Games
 
 A collection of fun browser-based mini games built using HTML, CSS, and JavaScript.
+
+
 Website: https://shriyareddy216.github.io/minigames/
 ## 🚀 Features
 
